@@ -1,7 +1,7 @@
 - 👋 Hi, I’m ranveer
 - 👀 I’m interested in Web Development, AI and ML
-- ✨ I enjoy building front-end web apps in react and projects in python 
-- 🌱 I’m currently learning Back-end Development
+- ✨ I enjoy building full-stack web apps in react and projects in python 
+- 🌱 I’m currently learning AI and ML
 - 📫 drop a mail at ranveer2106@gmail.com
 
 <!---

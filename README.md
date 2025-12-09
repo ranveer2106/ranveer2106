@@ -1,6 +1,6 @@
-- 👋 Hi, I’m ranveer
-- 👀 I’m interested in Web Development, AI and ML
-- ✨ I enjoy building full-stack web apps in react and projects in python 
+- 👋 Hi, I’m Ranvir
+- 👀 I’m interested in Web Development, GoLang,AI and ML
+- ✨ I enjoy building full-stack web apps in React and projects in Python 
 - 🌱 I’m currently learning AI and ML
 - 📫 drop a mail at ranvir.s.bhatti@gmail.com
 
